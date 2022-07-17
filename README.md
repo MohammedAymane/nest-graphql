@@ -24,7 +24,7 @@
 
 ## Description
 
-Simple GraphQL API for pets & owners Crud using NestJs.
+Simple GraphQL API for pets & owners CRUD using NestJs and sqlite.
 
 ## Installation
 
